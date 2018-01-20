@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: ieeetr.bst
+Database file #1: rotation_refs.bib
+You've used 28 entries,
+            1876 wiz_defined-function locations,
+            650 strings with 13157 characters,
+and the built_in function-call counts, 11737 in all, are:
+= -- 973
+> -- 934
+< -- 0
++ -- 322
+- -- 294
+* -- 1069
+:= -- 1840
+add.period$ -- 28
+call.type$ -- 28
+change.case$ -- 28
+chr.to.int$ -- 0
+cite$ -- 28
+duplicate$ -- 472
+empty$ -- 741
+format.name$ -- 294
+if$ -- 2637
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 28
+newline$ -- 87
+num.names$ -- 28
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 437
+stack$ -- 0
+substring$ -- 722
+swap$ -- 270
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 95
+width$ -- 30
+write$ -- 284

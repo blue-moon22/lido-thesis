@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Identifying and quantifying the bacteriome and mycobiome}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Inter-species metabolic interactions}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Materials and Methods}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Removal of adapters and primers from fragment reads}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Removal of human contamination from fragment reads}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Selection of high-confidence fragments to create scaffolds}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Quality control fragments and scaffolds}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.5}{Gene predictions}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Results}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Quality control identifies outliers}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 13
+\BOOKMARK [1][-]{section.6}{Acknowledgements}{}% 14
